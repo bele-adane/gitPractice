@@ -16,7 +16,6 @@ Do you know some of the commonly used bash commands?
 * git used to keep tracking of the history of work.
 * git used collabration of the team about their work at the same server.
 * GitHub is a hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then * GitHub is designed to store your source code and better manage them.
-***************************First time when you create new repositories******************************
 echo "# FullStack-Development" >> README.md
   git init
   git add README.md
